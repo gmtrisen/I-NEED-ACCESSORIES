@@ -306,7 +306,7 @@
 
     .header h1 {
         margin: 0;
-        font-size: 18px; /* Slightly smaller font */
+        font-size: 12px; /* Slightly smaller font */
     }
 
     .nav ul {
@@ -324,6 +324,7 @@
         transition: background-color 0.3s ease;
         width: 100%; /* Full width for nav items */
         text-align: center;
+                font-size: 12px;
     }
 
     .nav a {
@@ -499,4 +500,5 @@
     .sop {
         font-size: 24px; /* Smaller heading */
     }
+
 }
