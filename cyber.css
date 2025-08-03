@@ -127,7 +127,8 @@
     color: rgb(255, 217, 2);
     font-size: 30px;
 }
- color: wheat;
+ .click{
+    color: wheat;
     text-align: center;
    }
 .news-box-container{
@@ -505,4 +506,5 @@
     }
 
 }
+
 
