@@ -360,13 +360,13 @@
 
     /* Product Grid */
     .product-grid {
-        grid-template-columns: 1fr; /* Single column */
+       grid-template-columns: repeat(2, 1fr); /* 2 columns on small screens */
         gap: 15px; /* Reduced gap */
         padding: 0 10px;
     }
 
     .product-card img {
-        height: 150px; /* Smaller image height */
+        height: 200px; /* Smaller image height */
     }
 
     .product-card h3 {
@@ -506,5 +506,6 @@
     }
 
 }
+
 
 
