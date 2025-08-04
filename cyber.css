@@ -323,7 +323,7 @@
     }
 
     .nav li {
-        padding: 8px 30px; /* Reduced padding for touch targets */
+        padding: 8px 10px; /* Reduced padding for touch targets */
         cursor: pointer;
         transition: background-color 0.3s ease;
         width: 100%; /* Full width for nav items */
@@ -506,6 +506,7 @@
     }
 
 }
+
 
 
 
