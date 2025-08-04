@@ -323,12 +323,12 @@
     }
 
     .nav li {
-        padding: 8px 10px; /* Reduced padding for touch targets */
+        padding: 8px 15px; /* Reduced padding for touch targets */
         cursor: pointer;
         transition: background-color 0.3s ease;
-        width: 100%; /* Full width for nav items */
+        width: 70%; /* Full width for nav items */
         text-align: center;
-                font-size: 12px;
+                font-size: 8px;
     }
 
     .nav a {
@@ -506,6 +506,7 @@
     }
 
 }
+
 
 
 
